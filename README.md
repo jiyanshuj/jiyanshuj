@@ -138,7 +138,7 @@ I'm a passionate Computer Science student and software engineer who transforms c
 - [LinkedIn](https://linkedin.com/in/jiyanshu-jain)
 - [GitHub](https://github.com/jiyanshuj)
 - [Instagram](https://instagram.com/jiyanshu.j)
-- 📫 Email: **jainjiyanshu@gmail.com**
+- 📫 Email: **jiyanshujain321@@gmail.com**
 - 👨‍💻 Portfolio: [https://jiyanshu.netlify.app/](https://jiyanshu.netlify.app/)
 - 📄 Resume: [View My Resume](https://drive.google.com/drive/u/0/folders/1jsytIwynXhLzqdaElfQGgz_zaeFo5B37)
 
