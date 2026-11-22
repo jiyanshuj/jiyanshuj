@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="154" height="90" viewBox="591 190 154 90" role="img" aria-labelledby="title description">
+<title id="title">Let's build something useful — Jiyanshu Jain</title>
+<desc id="description">Dark purple developer footer linking conceptually to portfolio, GitHub, LinkedIn and email.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#10111D"/><stop offset=".55" stop-color="#171526"/><stop offset="1" stop-color="#171229"/></linearGradient><linearGradient id="accent" x2="1"><stop stop-color="#C5A6FF"/><stop offset="1" stop-color="#75BDF9"/></linearGradient><radialGradient id="halo"><stop stop-color="#9560D5" stop-opacity=".22"/><stop offset="1" stop-color="#9560D5" stop-opacity="0"/></radialGradient><pattern id="dot" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#8776AB" opacity=".17"/></pattern></defs>
+<rect width="1200" height="280" rx="19" fill="url(#bg)"/><rect width="1200" height="280" rx="19" fill="url(#dot)"/><ellipse cx="1080" cy="60" rx="340" ry="250" fill="url(#halo)"/><rect x="1" y="1" width="1198" height="278" rx="18" fill="none" stroke="#514165"/>
+<rect x="43" y="44" width="6" height="100" rx="3" fill="url(#accent)"/>
+<text x="76" y="72" fill="#BCA7E9" font-family="monospace" font-size="15" letter-spacing="2">OPEN TO BUILDING WHAT'S NEXT</text>
+<text x="75" y="120" fill="#F3EFFA" font-family="Arial,Helvetica,sans-serif" font-size="35" font-weight="800">Let's build something <tspan fill="#BDA0FA">useful.</tspan></text>
+<text x="76" y="153" fill="#B5B0C5" font-family="Arial,Helvetica,sans-serif" font-size="17">AI/ML  ·  Backend engineering  ·  Full-stack products</text>
+<path d="M74 185h720" stroke="#3A334D"/>
+<g font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="15">
+<rect x="76" y="201" width="190" height="44" rx="10" fill="#8D66CA"/><text x="171" y="229" text-anchor="middle" fill="#FFFFFF">jiyanshu.dev</text>
+<rect x="278" y="201" width="145" height="44" rx="10" fill="#232237" stroke="#554B70"/><text x="350" y="229" text-anchor="middle" fill="#E8E4F0">GitHub</text>
+<rect x="435" y="201" width="145" height="44" rx="10" fill="#232237" stroke="#554B70"/><text x="507" y="229" text-anchor="middle" fill="#E8E4F0">LinkedIn</text>
+<rect x="592" y="201" width="145" height="44" rx="10" fill="#232237" stroke="#554B70"/><text x="665" y="229" text-anchor="middle" fill="#E8E4F0">Email</text></g>
+<g transform="translate(925 40)" fill="none" stroke="#A78BFA" stroke-width="2" opacity=".85">
+<rect x="15" y="25" width="175" height="135" rx="12" stroke="#625477"/>
+<path d="M15 58h175" stroke="#625477"/><circle cx="32" cy="42" r="4" fill="#A78BFA"/><circle cx="47" cy="42" r="4" fill="#78BDFB"/><circle cx="62" cy="42" r="4" fill="#E2B5FF"/>
+<path d="M65 90l-19 17 19 17 M137 90l19 17-19 17 M112 79l-19 57" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="210" cy="23" r="4" fill="#A78BFA"/><circle cx="231" cy="52" r="3" fill="#78BDFB"/><circle cx="-8" cy="184" r="3" fill="#78BDFB"/>
+</g>
+<text x="1147" y="250" text-anchor="end" fill="#7F748E" font-family="monospace" font-size="12" letter-spacing="2">JIYANSHU JAIN / BUILD · LEARN · SHIP</text>
+</svg>
