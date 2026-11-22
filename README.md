@@ -89,20 +89,9 @@ I work across machine learning, backend engineering, and full-stack development.
 ## Toolkit
 
 <p align="center">
-  <img src="./assets/toolkit.svg"
+  <img src="./assets/toolkit.webp"
        alt="Toolkit — Languages: Python, C++, JavaScript, TypeScript, Java, SQL. AI/ML: scikit-learn, TensorFlow, PyTorch, OpenCV, XGBoost, Pandas, NumPy, Gemini API. Frontend: React, React Native, TypeScript, Tailwind CSS, HTML/CSS, Vite. Backend: FastAPI, Flask, Django, REST APIs. Data systems: PostgreSQL, PostGIS, MongoDB, Redis, MySQL, Supabase, Firebase. Cloud and tools: Azure, Databricks, Git/GitHub, Postman, VS Code, Jupyter, Vercel, Render."
        width="100%" />
-</p>
-
-<br />
-
-## GitHub
-
-<p align="center">
-  <a href="https://github.com/jiyanshuj"><img height="160" alt="GitHub stats for jiyanshuj"
-    src="https://github-readme-stats.vercel.app/api?username=jiyanshuj&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=60A5FA&text_color=E5E7EB&ring_color=A78BFA" /></a>
-  <a href="https://github.com/jiyanshuj"><img height="160" alt="Most used languages for jiyanshuj"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyanshuj&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" /></a>
 </p>
 
 <br />
@@ -113,6 +102,8 @@ Oracle OCI Data Science Professional &nbsp;·&nbsp; Microsoft Azure AI Fundament
 
 <br />
 
-<!-- Footer: one image sliced into clickable pieces. Widths are exact proportions (99.5% total) and tags sit on one line so no gaps appear. -->
-<div align="center"><a href="https://jiyanshu.dev"><img align="top" src="./assets/top.svg" alt="Let's build something useful — Jiyanshu Jain. AI/ML, backend engineering, full-stack products." width="99.5%" /></a></div>
-<div align="center"><a href="https://jiyanshu.dev"><img align="top" src="./assets/portfolio.svg" alt="Portfolio: jiyanshu.dev" width="22.97%" /></a><a href="https://github.com/jiyanshuj"><img align="top" src="./assets/github.svg" alt="GitHub" width="13.02%" /></a><a href="https://linkedin.com/in/jiyanshu-jain"><img align="top" src="./assets/linkedin.svg" alt="LinkedIn" width="13.02%" /></a><a href="mailto:jainjiyanshu@gmail.com"><img align="top" src="./assets/email.svg" alt="Email: jainjiyanshu@gmail.com" width="12.77%" /></a><img align="top" src="./assets/rest.svg" alt="" width="37.73%" /></div>
+<!-- Footer: assets/footer.webp sliced into clickable pieces. Keep each row on one line and widths proportional (99.5% total) so no seams appear. -->
+<div align="center"><img align="top" src="./assets/footer-1-top.webp" alt="Let's build something useful together — Jiyanshu Jain. AI/ML, Full-Stack Development, Data Science, Geospatial ML, AI Products." width="99.500%" /></div>
+<div align="center"><img align="top" src="./assets/footer-2-left.webp" alt="" width="46.635%" /><a href="https://jiyanshu.dev"><img align="top" src="./assets/footer-2-portfolio.webp" alt="Portfolio: jiyanshu.dev" width="18.416%" /></a><img align="top" src="./assets/footer-2-right.webp" alt="" width="34.449%" /></div>
+<div align="center"><img align="top" src="./assets/footer-3-left.webp" alt="" width="46.635%" /><a href="https://github.com/jiyanshuj"><img align="top" src="./assets/footer-3-github.webp" alt="GitHub" width="13.010%" /></a><a href="https://linkedin.com/in/jiyanshu-jain"><img align="top" src="./assets/footer-3-linkedin.webp" alt="LinkedIn" width="14.659%" /></a><a href="mailto:jainjiyanshu@gmail.com"><img align="top" src="./assets/footer-3-email.webp" alt="Email: jainjiyanshu@gmail.com" width="12.735%" /></a><img align="top" src="./assets/footer-3-right.webp" alt="" width="12.460%" /></div>
+<div align="center"><img align="top" src="./assets/footer-4-bottom.webp" alt="" width="99.500%" /></div>
