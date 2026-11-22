@@ -115,7 +115,7 @@ Oracle OCI Data Science Professional &nbsp;·&nbsp; Microsoft Azure AI Fundament
 
 <!-- Footer: one image sliced into clickable pieces. Tags are on one line on purpose, so no gaps appear. -->
 <p align="center">
-<a href="https://jiyanshu.dev"><img src="./assets/footer/top.svg" alt="Let's build something useful — Jiyanshu Jain. AI/ML, backend engineering, full-stack products." width="100%" /></a>
+<a href="https://jiyanshu.dev"><img src="./assets/top.svg" alt="Let's build something useful — Jiyanshu Jain. AI/ML, backend engineering, full-stack products." width="100%" /></a>
 <br />
-<a href="https://jiyanshu.dev"><img src="./assets/footer/portfolio.svg" alt="Portfolio: jiyanshu.dev" width="23%" /></a><a href="https://github.com/jiyanshuj"><img src="./assets/footer/github.svg" alt="GitHub" width="13%" /></a><a href="https://linkedin.com/in/jiyanshu-jain"><img src="./assets/footer/linkedin.svg" alt="LinkedIn" width="13%" /></a><a href="mailto:jainjiyanshu@gmail.com"><img src="./assets/footer/email.svg" alt="Email: jainjiyanshu@gmail.com" width="12.8%" /></a><img src="./assets/footer/rest.svg" alt="" width="37.9%" />
+<a href="https://jiyanshu.dev"><img src="./assets/portfolio.svg" alt="Portfolio: jiyanshu.dev" width="23%" /></a><a href="https://github.com/jiyanshuj"><img src="./assets/github.svg" alt="GitHub" width="13%" /></a><a href="https://linkedin.com/in/jiyanshu-jain"><img src="./assets/linkedin.svg" alt="LinkedIn" width="13%" /></a><a href="mailto:jainjiyanshu@gmail.com"><img src="./assets/email.svg" alt="Email: jainjiyanshu@gmail.com" width="12.8%" /></a><img src="./assets/rest.svg" alt="" width="37.9%" />
 </p>
