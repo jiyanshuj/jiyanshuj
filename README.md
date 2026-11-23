@@ -44,54 +44,13 @@ More on my [GitHub repositories](https://github.com/jiyanshuj?tab=repositories),
 
 <br />
 
-## Experience
-
-<table>
-<tr>
-<td width="24%" valign="top">
-<b>EY</b><br />
-AI/ML Engineer (Intern)<br />
-<sub>Geospatial ML</sub><br /><br />
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square" alt="XGBoost" />
-<img src="https://img.shields.io/badge/SHAP-8A2BE2?style=flat-square" alt="SHAP" />
-<img src="https://img.shields.io/badge/PostGIS-4169E1?style=flat-square" alt="PostGIS" />
-</td>
-<td valign="top">
-<ul>
-<li>Built an EV charging site selection pipeline across <b>3,000+ stations in 9 Indian states</b></li>
-<li>Combined <b>XGBoost with AHP scoring</b> and used <b>SHAP</b> to explain every site ranking</li>
-<li>Worked with GeoPandas, PostGIS and Azure Databricks, with OSMnx and Overpass API for spatial data</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td width="24%" valign="top">
-<b>Hired Easy</b><br />
-Software Developer (Intern)<br />
-<sub>ML backend and mobile</sub><br /><br />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square" alt="Redis" />
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square" alt="React Native" />
-</td>
-<td valign="top">
-<ul>
-<li>Built the resume-parsing ML backend for resume and job matching, at <b>92% extraction accuracy</b></li>
-<li>Shipped Redis-cached job APIs, with Cloudinary file storage and backend integration</li>
-<li>Developed a React Native app with swipe-based job matching and AI resume parsing</li>
-</ul>
-</td>
-</tr>
-</table>
-
-<br />
-
 ## Toolkit
 
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/toolkit-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/toolkit-light.svg">
-  <img src="./assets/toolkit-light.svg" alt="Engineering stack: languages, data and geo, models, apps, and shipping tools" width="65%" style="transform: scaleX(1.3);">
+  <img src="./assets/toolkit-dark.svg" alt="Engineering stack: languages, data and geo, models, apps, and shipping tools" width="65%" style="transform: scaleX(1.3);">
 </picture>
 </div>
 
