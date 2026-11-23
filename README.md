@@ -79,15 +79,8 @@ NPTEL The Joy of Computing Using Python
 
 <br />
 
-<p align="center">
-  <img src="./assets/footer.webp"
-       alt="Let's build something useful together — Jiyanshu Jain. AI/ML, Full-Stack Development, Data Science, Geospatial ML, AI Products."
-       width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://jiyanshu.dev"><img src="https://img.shields.io/badge/Portfolio-jiyanshu.dev-8B5CF6?style=for-the-badge&labelColor=1a1423" alt="Portfolio" /></a>
-  <a href="https://github.com/jiyanshuj"><img src="https://img.shields.io/badge/GitHub-jiyanshuj-8B5CF6?style=for-the-badge&labelColor=1a1423" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/jiyanshu-jain"><img src="https://img.shields.io/badge/LinkedIn-jiyanshu--jain-8B5CF6?style=for-the-badge&labelColor=1a1423" alt="LinkedIn" /></a>
-  <a href="mailto:jiyanshujain321@gmail.com"><img src="https://img.shields.io/badge/Email-jiyanshujain321@gmail.com-8B5CF6?style=for-the-badge&labelColor=1a1423" alt="Email" /></a>
-</p>
+<!-- Footer: assets/footer.webp sliced into clickable pieces. Keep each row on one line and widths proportional (99.5% total) so no seams appear. -->
+<div align="center"><img align="top" src="./assets/footer-1-top.webp" alt="Let's build something useful together — Jiyanshu Jain. AI/ML, Full-Stack Development, Data Science, Geospatial ML, AI Products." width="99.500%" /></div>
+<div align="center"><img align="top" src="./assets/footer-2-left.webp" alt="" width="46.635%" /><a href="https://jiyanshu.dev"><img align="top" src="./assets/footer-2-portfolio.webp" alt="Portfolio: jiyanshu.dev" width="18.416%" /></a><img align="top" src="./assets/footer-2-right.webp" alt="" width="34.449%" /></div>
+<div align="center"><img align="top" src="./assets/footer-3-left.webp" alt="" width="46.635%" /><a href="https://github.com/jiyanshuj"><img align="top" src="./assets/footer-3-github.webp" alt="GitHub" width="13.010%" /></a><a href="https://linkedin.com/in/jiyanshu-jain"><img align="top" src="./assets/footer-3-linkedin.webp" alt="LinkedIn" width="14.659%" /></a><a href="mailto:jiyanshujain321@gmail.com"><img align="top" src="./assets/footer-3-email.webp" alt="Email: jiyanshujain321@gmail.com" width="12.735%" /></a><img align="top" src="./assets/footer-3-right.webp" alt="" width="12.460%" /></div>
+<div align="center"><img align="top" src="./assets/footer-4-bottom.webp" alt="" width="99.500%" /></div>
