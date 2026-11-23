@@ -87,11 +87,13 @@ Software Developer (Intern)<br />
 
 ## Toolkit
 
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/toolkit-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/toolkit-light.svg">
-  <img src="./assets/toolkit-dark.svg" alt="Engineering stack: languages, data and geo, models, apps, and shipping tools" width="100%">
+  <img src="./assets/toolkit-dark.svg" alt="Engineering stack: languages, data and geo, models, apps, and shipping tools" width="85%">
 </picture>
+</div>
 
 <details>
 <summary><b>How the stack fits together (click to expand)</b></summary>
