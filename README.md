@@ -91,7 +91,7 @@ Software Developer (Intern)<br />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/toolkit-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/toolkit-light.svg">
-  <img src="./assets/toolkit-dark.svg" alt="Engineering stack: languages, data and geo, models, apps, and shipping tools" width="85%">
+  <img src="./assets/toolkit-dark.svg" alt="Engineering stack: languages, data and geo, models, apps, and shipping tools" width="65%">
 </picture>
 </div>
 
