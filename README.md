@@ -4,29 +4,33 @@
        width="100%" />
 </p>
 
-```diff
-jiyanshu@github:~$ git diff notebook..production
+<div align="center">
 
-  Jiyanshu Jain · AI/ML Engineer · Full-Stack Developer
-  B.Tech (CS, AI & ML), final year, SVVV Indore · Intern @ EY
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=AI%2FML+Engineer+%40+EY+%E2%9C%A6+Full-Stack+Developer;Geospatial+ML+by+day%2C+AI+products+by+night;Notebooks+%E2%86%92+APIs+%E2%86%92+live+apps" alt="Animated introduction" />
 
-- notebook     where the model is born
--   XGBoost + AHP scoring, explained with SHAP
--   geospatial pipelines on 3,000+ EV stations
-+ production   where it meets real users
-+   FastAPI / Flask backends, React frontends
-+   shipped, deployed, live demos
+<br />
 
-  status       open to AI/ML, backend and full-stack roles
-```
+<img src="https://img.shields.io/badge/Now-AI%2FML%20Intern%20%40%20EY-8B5CF6?style=flat-square" alt="Now: AI/ML Intern at EY" />
+<img src="https://img.shields.io/badge/Education-B.Tech%20CS%20(AI%20%26%20ML)%20%C2%B7%20SVVV%20Indore-3B82F6?style=flat-square" alt="Education: B.Tech CS (AI and ML), SVVV Indore" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20AI%2FML%2C%20Backend%20%26%20Full--Stack%20roles-14B8A6?style=flat-square" alt="Open to AI/ML, backend and full-stack roles" />
+
+</div>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/about-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/about-light.svg">
+  <img src="./assets/about-dark.svg" alt="Two ways I work: the notebook brain makes models explain themselves, the product brain ships them so people can use them" width="100%">
+</picture>
+
+<br />
 
 I work across machine learning, backend engineering, and full-stack development. I enjoy taking ideas beyond notebooks and prototypes, building applications that people can actually use.
 
 <br />
 
-```text
-jiyanshu@github:~$ ls projects/
-```
+## Projects
 
 | Project | What it does | Stack | Links |
 |:--|:--|:--|:--|
@@ -40,118 +44,83 @@ More on my [GitHub repositories](https://github.com/jiyanshuj?tab=repositories),
 
 <br />
 
-```text
-jiyanshu@github:~$ cat experience.log
-
-EY · AI/ML Engineer (Intern)
-  > EV charging site selection across 3,000+ stations in 9 Indian states
-  > XGBoost + AHP hybrid scoring, every ranking explained with SHAP
-  > GeoPandas · PostGIS · Azure Databricks · OSMnx · Overpass API
-
-Hired Easy · Software Developer (Intern)
-  > Resume-parsing ML backend for resume and job matching, 92% extraction accuracy
-  > Redis-cached job APIs, backend integration, Cloudinary file storage
-  > React Native app with swipe-based job matching and AI resume parsing
-```
-
-<br />
-
-```text
-jiyanshu@github:~$ ./toolkit --show-pipeline
-idea → data → model → api → ship      (click any icon to open its docs)
-```
+## Experience
 
 <table>
 <tr>
-<td width="16%" valign="middle"><b>01 · Languages</b><br /><sub>the core</sub></td>
-<td>
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" width="46" alt="Python" /></a>
-<a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="46" alt="C++" /></a>
-<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="46" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="46" alt="TypeScript" /></a>
-<a href="https://dev.java/"><img src="https://skillicons.dev/icons?i=java" width="46" alt="Java" /></a>
-<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="46" alt="SQL" /></a>
+<td width="24%" valign="top">
+<b>EY</b><br />
+AI/ML Engineer (Intern)<br />
+<sub>Geospatial ML</sub><br /><br />
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square" alt="XGBoost" />
+<img src="https://img.shields.io/badge/SHAP-8A2BE2?style=flat-square" alt="SHAP" />
+<img src="https://img.shields.io/badge/PostGIS-4169E1?style=flat-square" alt="PostGIS" />
+</td>
+<td valign="top">
+<ul>
+<li>Built an EV charging site selection pipeline across <b>3,000+ stations in 9 Indian states</b></li>
+<li>Combined <b>XGBoost with AHP scoring</b> and used <b>SHAP</b> to explain every site ranking</li>
+<li>Worked with GeoPandas, PostGIS and Azure Databricks, with OSMnx and Overpass API for spatial data</li>
+</ul>
 </td>
 </tr>
 <tr>
-<td valign="middle"><b>02 · Data</b><br /><sub>store and shape it</sub></td>
-<td>
-<a href="https://pandas.pydata.org/"><img src="https://skillicons.dev/icons?i=pandas" width="46" alt="Pandas" /></a>
-<a href="https://numpy.org/"><img src="https://skillicons.dev/icons?i=numpy" width="46" alt="NumPy" /></a>
-<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="46" alt="PostgreSQL" /></a>
-<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="46" alt="MongoDB" /></a>
-<a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" width="46" alt="Redis" /></a>
-<a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" width="46" alt="Supabase" /></a>
-<a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" width="46" alt="Firebase" /></a>
-<br />
-<a href="https://postgis.net/"><img src="https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS" /></a>
-<a href="https://geopandas.org/"><img src="https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logo=pandas&logoColor=white" alt="GeoPandas" /></a>
-<a href="https://www.databricks.com/"><img src="https://img.shields.io/badge/Azure%20Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Azure Databricks" /></a>
+<td width="24%" valign="top">
+<b>Hired Easy</b><br />
+Software Developer (Intern)<br />
+<sub>ML backend and mobile</sub><br /><br />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square" alt="Redis" />
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square" alt="React Native" />
 </td>
-</tr>
-<tr>
-<td valign="middle"><b>03 · Models</b><br /><sub>learn and explain</sub></td>
-<td>
-<a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" width="46" alt="scikit-learn" /></a>
-<a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="46" alt="TensorFlow" /></a>
-<a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="46" alt="PyTorch" /></a>
-<a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" width="46" alt="OpenCV" /></a>
-<br />
-<a href="https://xgboost.readthedocs.io/"><img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white" alt="XGBoost" /></a>
-<a href="https://shap.readthedocs.io/"><img src="https://img.shields.io/badge/SHAP-explainability-8A2BE2?style=flat-square" alt="SHAP" /></a>
-<a href="https://ai.google.dev/"><img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini API" /></a>
-</td>
-</tr>
-<tr>
-<td valign="middle"><b>04 · Apps</b><br /><sub>APIs and interfaces</sub></td>
-<td>
-<a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" width="46" alt="FastAPI" /></a>
-<a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" width="46" alt="Flask" /></a>
-<a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" width="46" alt="Django" /></a>
-<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="46" alt="React and React Native" /></a>
-<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="46" alt="Tailwind CSS" /></a>
-<a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite" width="46" alt="Vite" /></a>
-</td>
-</tr>
-<tr>
-<td valign="middle"><b>05 · Ship</b><br /><sub>cloud and workflow</sub></td>
-<td>
-<a href="https://azure.microsoft.com/"><img src="https://skillicons.dev/icons?i=azure" width="46" alt="Azure" /></a>
-<a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" width="46" alt="Vercel" /></a>
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="46" alt="Git" /></a>
-<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="46" alt="GitHub" /></a>
-<a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="46" alt="Postman" /></a>
-<a href="https://jupyter.org/"><img src="https://skillicons.dev/icons?i=jupyter" width="46" alt="Jupyter" /></a>
-<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="46" alt="VS Code" /></a>
-<a href="https://render.com/"><img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" /></a>
+<td valign="top">
+<ul>
+<li>Built the resume-parsing ML backend for resume and job matching, at <b>92% extraction accuracy</b></li>
+<li>Shipped Redis-cached job APIs, with Cloudinary file storage and backend integration</li>
+<li>Developed a React Native app with swipe-based job matching and AI resume parsing</li>
+</ul>
 </td>
 </tr>
 </table>
 
+<br />
+
+## Toolkit
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/toolkit-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/toolkit-light.svg">
+  <img src="./assets/toolkit-dark.svg" alt="Engineering stack: languages, data and geo, models, apps, and shipping tools" width="100%">
+</picture>
+
 <details>
-<summary><b>▶ See how the pipeline played out on my EY project</b></summary>
+<summary><b>How the stack fits together (click to expand)</b></summary>
 
 <br />
 
-| Stage | What I used it for |
+| Lane | What I reach for it to do |
 |:--|:--|
-| **Data** | Station data from Overpass API and OSMnx, stored in PostGIS, shaped with GeoPandas |
-| **Models** | XGBoost + AHP hybrid scoring, with SHAP to explain each site ranking |
-| **Scale** | Azure Databricks to run it across 3,000+ stations in 9 Indian states |
+| **Languages** | Python for ML and APIs, TypeScript and JavaScript for the web, C++ and Java for fundamentals, SQL for data |
+| **Data and Geo** | Pandas and NumPy for shaping data, PostgreSQL with PostGIS and GeoPandas for geospatial work, MongoDB, Redis, Supabase and Firebase for app data |
+| **Models** | scikit-learn, XGBoost, TensorFlow, PyTorch and OpenCV for modeling, SHAP for explanations, Gemini API for generative features |
+| **Apps** | FastAPI, Flask and Django for backends, React and React Native with Tailwind and Vite for interfaces |
+| **Ship** | Azure and Databricks for cloud and pipelines, Vercel and Render for hosting, Git, GitHub, Postman, Jupyter and VS Code for daily workflow |
 
 </details>
 
 <br />
 
-```text
-jiyanshu@github:~$ ls certifications/
+## Certifications
 
-Oracle OCI Data Science Professional
-Microsoft Azure AI Fundamentals (AI-900)
-Microsoft Azure Fundamentals
-IBM Data Analysis Using Python
-NPTEL The Joy of Computing Using Python
-```
+<div align="center">
+
+<img src="https://img.shields.io/badge/Oracle-OCI%20Data%20Science%20Professional-F80000?style=flat-square" alt="Oracle OCI Data Science Professional" />
+<img src="https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals%20(AI--900)-0078D4?style=flat-square" alt="Microsoft Azure AI Fundamentals (AI-900)" />
+<img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals-0078D4?style=flat-square" alt="Microsoft Azure Fundamentals" />
+<img src="https://img.shields.io/badge/IBM-Data%20Analysis%20Using%20Python-052FAD?style=flat-square" alt="IBM Data Analysis Using Python" />
+<img src="https://img.shields.io/badge/NPTEL-The%20Joy%20of%20Computing%20Using%20Python-CC0000?style=flat-square" alt="NPTEL The Joy of Computing Using Python" />
+
+</div>
 
 <br />
 
