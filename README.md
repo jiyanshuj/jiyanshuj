@@ -4,15 +4,20 @@
        width="100%" />
 </p>
 
-```text
-jiyanshu@github:~$ whoami
-Jiyanshu Jain · AI/ML Engineer · Full-Stack Developer
+```diff
+jiyanshu@github:~$ git diff notebook..production
 
-jiyanshu@github:~$ cat about.txt
-education   B.Tech (CS, AI & ML), final year, SVVV Indore
-now         AI/ML Engineering Intern at EY
-focus       ML models · backend APIs · full-stack products
-status      open to AI/ML, backend and full-stack roles
+  Jiyanshu Jain · AI/ML Engineer · Full-Stack Developer
+  B.Tech (CS, AI & ML), final year, SVVV Indore · Intern @ EY
+
+- notebook     where the model is born
+-   XGBoost + AHP scoring, explained with SHAP
+-   geospatial pipelines on 3,000+ EV stations
++ production   where it meets real users
++   FastAPI / Flask backends, React frontends
++   shipped, deployed, live demos
+
+  status       open to AI/ML, backend and full-stack roles
 ```
 
 I work across machine learning, backend engineering, and full-stack development. I enjoy taking ideas beyond notebooks and prototypes, building applications that people can actually use.
@@ -39,31 +44,102 @@ More on my [GitHub repositories](https://github.com/jiyanshuj?tab=repositories),
 jiyanshu@github:~$ cat experience.log
 
 EY · AI/ML Engineer (Intern)
-  - Geospatial ML pipeline for EV charging site selection
-  - XGBoost + AHP scoring, explained with SHAP
-  - GeoPandas, PostGIS, Azure Databricks
+  > EV charging site selection across 3,000+ stations in 9 Indian states
+  > XGBoost + AHP hybrid scoring, every ranking explained with SHAP
+  > GeoPandas · PostGIS · Azure Databricks · OSMnx · Overpass API
 
 Hired Easy · Software Developer (Intern)
-  - Resume-parsing ML backend for resume and job matching
-  - Redis-cached job APIs and backend integration
-  - React Native app development
+  > Resume-parsing ML backend for resume and job matching, 92% extraction accuracy
+  > Redis-cached job APIs, backend integration, Cloudinary file storage
+  > React Native app with swipe-based job matching and AI resume parsing
 ```
 
 <br />
 
 ```text
-jiyanshu@github:~$ cat toolkit.txt
-
-languages    Python · C++ · JavaScript · TypeScript · Java · SQL
-ai/ml        scikit-learn · TensorFlow · PyTorch · OpenCV · XGBoost
-             Pandas · NumPy · Gemini API
-frontend     React · React Native · Tailwind CSS · HTML/CSS · Vite
-backend      FastAPI · Flask · Django · REST APIs
-data         PostgreSQL · PostGIS · MongoDB · Redis · MySQL
-             Supabase · Firebase
-cloud/tools  Azure · Databricks · Git/GitHub · Postman · VS Code
-             Jupyter · Vercel · Render
+jiyanshu@github:~$ ./toolkit --show-pipeline
+idea → data → model → api → ship      (click any icon to open its docs)
 ```
+
+<table>
+<tr>
+<td width="16%" valign="middle"><b>01 · Languages</b><br /><sub>the core</sub></td>
+<td>
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" width="46" alt="Python" /></a>
+<a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="46" alt="C++" /></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="46" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="46" alt="TypeScript" /></a>
+<a href="https://dev.java/"><img src="https://skillicons.dev/icons?i=java" width="46" alt="Java" /></a>
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="46" alt="SQL" /></a>
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>02 · Data</b><br /><sub>store and shape it</sub></td>
+<td>
+<a href="https://pandas.pydata.org/"><img src="https://skillicons.dev/icons?i=pandas" width="46" alt="Pandas" /></a>
+<a href="https://numpy.org/"><img src="https://skillicons.dev/icons?i=numpy" width="46" alt="NumPy" /></a>
+<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="46" alt="PostgreSQL" /></a>
+<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="46" alt="MongoDB" /></a>
+<a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" width="46" alt="Redis" /></a>
+<a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" width="46" alt="Supabase" /></a>
+<a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" width="46" alt="Firebase" /></a>
+<br />
+<a href="https://postgis.net/"><img src="https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS" /></a>
+<a href="https://geopandas.org/"><img src="https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logo=pandas&logoColor=white" alt="GeoPandas" /></a>
+<a href="https://www.databricks.com/"><img src="https://img.shields.io/badge/Azure%20Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Azure Databricks" /></a>
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>03 · Models</b><br /><sub>learn and explain</sub></td>
+<td>
+<a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" width="46" alt="scikit-learn" /></a>
+<a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="46" alt="TensorFlow" /></a>
+<a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="46" alt="PyTorch" /></a>
+<a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" width="46" alt="OpenCV" /></a>
+<br />
+<a href="https://xgboost.readthedocs.io/"><img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white" alt="XGBoost" /></a>
+<a href="https://shap.readthedocs.io/"><img src="https://img.shields.io/badge/SHAP-explainability-8A2BE2?style=flat-square" alt="SHAP" /></a>
+<a href="https://ai.google.dev/"><img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini API" /></a>
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>04 · Apps</b><br /><sub>APIs and interfaces</sub></td>
+<td>
+<a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" width="46" alt="FastAPI" /></a>
+<a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" width="46" alt="Flask" /></a>
+<a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" width="46" alt="Django" /></a>
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="46" alt="React and React Native" /></a>
+<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="46" alt="Tailwind CSS" /></a>
+<a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite" width="46" alt="Vite" /></a>
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>05 · Ship</b><br /><sub>cloud and workflow</sub></td>
+<td>
+<a href="https://azure.microsoft.com/"><img src="https://skillicons.dev/icons?i=azure" width="46" alt="Azure" /></a>
+<a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" width="46" alt="Vercel" /></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="46" alt="Git" /></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="46" alt="GitHub" /></a>
+<a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="46" alt="Postman" /></a>
+<a href="https://jupyter.org/"><img src="https://skillicons.dev/icons?i=jupyter" width="46" alt="Jupyter" /></a>
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="46" alt="VS Code" /></a>
+<a href="https://render.com/"><img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" /></a>
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>▶ See how the pipeline played out on my EY project</b></summary>
+
+<br />
+
+| Stage | What I used it for |
+|:--|:--|
+| **Data** | Station data from Overpass API and OSMnx, stored in PostGIS, shaped with GeoPandas |
+| **Models** | XGBoost + AHP hybrid scoring, with SHAP to explain each site ranking |
+| **Scale** | Azure Databricks to run it across 3,000+ stations in 9 Indian states |
+
+</details>
 
 <br />
 
